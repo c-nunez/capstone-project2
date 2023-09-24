@@ -1,6 +1,6 @@
 .fixed_background {
     background-image: url("./images/bg-img.jpg");
-    min-height: 500px;
+    min-height: 25%;
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
