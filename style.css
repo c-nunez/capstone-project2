@@ -21,3 +21,10 @@ body {
 .svg_white {
     fill: #fff;
 }
+
+
+@media (max-width: 576px) { 
+    .rounded-4 {       
+        border-radius: 0 !important;
+    }
+}
